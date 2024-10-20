@@ -3,36 +3,56 @@
   "WorkspaceRootPath": "C:\\ClubFabio\\ClubDeportivo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|c:\\clubfabio\\clubdeportivo\\gestorcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:gestorcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|c:\\clubfabio\\clubdeportivo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|c:\\clubfabio\\clubdeportivo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|c:\\clubfabio\\clubdeportivo\\forminscripcionpostulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:forminscripcionpostulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|C:\\ClubFabio\\ClubDeportivo\\formcargasocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:formcargasocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|C:\\ClubFabio\\ClubDeportivo\\forminscripcionpostulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:forminscripcionpostulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|C:\\ClubFabio\\ClubDeportivo\\formgestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:formgestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|c:\\clubfabio\\clubdeportivo\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|C:\\ClubFabio\\ClubDeportivo\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|c:\\clubfabio\\clubdeportivo\\formgestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:formgestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|c:\\clubfabio\\clubdeportivo\\postulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:postulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|c:\\clubfabio\\clubdeportivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|C:\\ClubFabio\\ClubDeportivo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|c:\\clubfabio\\clubdeportivo\\formnvosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:formnvosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|c:\\clubfabio\\clubdeportivo\\gestorcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:gestorcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|C:\\ClubFabio\\ClubDeportivo\\formnvosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:formnvosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|c:\\clubfabio\\clubdeportivo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|c:\\clubfabio\\clubdeportivo\\formcargasocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:formcargasocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|c:\\clubfabio\\clubdeportivo\\configuracion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:configuracion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|c:\\clubfabio\\clubdeportivo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4938C8-6601-46A7-A721-6ACD1384B0DD}|ClubDeportivo.csproj|solutionrelative:configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,108 +122,162 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Configuracion.Designer.cs",
-              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\Configuracion.Designer.cs",
-              "RelativeDocumentMoniker": "Configuracion.Designer.cs",
-              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\Configuracion.Designer.cs",
-              "RelativeToolTip": "Configuracion.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:42:37.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GestorCSV.cs",
-              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\GestorCSV.cs",
-              "RelativeDocumentMoniker": "GestorCSV.cs",
-              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\GestorCSV.cs*",
-              "RelativeToolTip": "GestorCSV.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T02:44:19.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormNvoSocio.cs",
-              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\FormNvoSocio.cs",
-              "RelativeDocumentMoniker": "FormNvoSocio.cs",
-              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\FormNvoSocio.cs",
-              "RelativeToolTip": "FormNvoSocio.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T02:46:03.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormNvoSocio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\FormNvoSocio.cs",
-              "RelativeDocumentMoniker": "FormNvoSocio.cs",
-              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\FormNvoSocio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormNvoSocio.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T02:46:00.886Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-20T04:26:39.468Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FormCargaSocio.cs",
-              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\FormCargaSocio.cs",
-              "RelativeDocumentMoniker": "FormCargaSocio.cs",
-              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\FormCargaSocio.cs",
-              "RelativeToolTip": "FormCargaSocio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "FormGestion.cs",
+              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\FormGestion.cs",
+              "RelativeDocumentMoniker": "FormGestion.cs",
+              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\FormGestion.cs",
+              "RelativeToolTip": "FormGestion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T02:45:42.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormCargaSocio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\FormCargaSocio.cs",
-              "RelativeDocumentMoniker": "FormCargaSocio.cs",
-              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\FormCargaSocio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormCargaSocio.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T02:45:40.569Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Configuracion.cs",
-              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\Configuracion.cs",
-              "RelativeDocumentMoniker": "Configuracion.cs",
-              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\Configuracion.cs",
-              "RelativeToolTip": "Configuracion.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T02:45:11.38Z",
+              "WhenOpened": "2024-10-20T04:26:19.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FormGestion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\FormGestion.cs",
+              "RelativeDocumentMoniker": "FormGestion.cs",
+              "ToolTip": "C:\\Users\\Jose\\Downloads\\ClubDeportivo-sa20h\\ClubDeportivo\\FormGestion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Users\\Jose\\Downloads\\ClubDeportivo-sa20h\\ClubDeportivo\\FormGestion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T04:26:12.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Postulante.cs",
+              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\Postulante.cs",
+              "RelativeDocumentMoniker": "Postulante.cs",
+              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\Postulante.cs",
+              "RelativeToolTip": "Postulante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T04:25:58.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Jose\\Downloads\\ClubDeportivo-sa20h\\ClubDeportivo\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Users\\Jose\\Downloads\\ClubDeportivo-sa20h\\ClubDeportivo\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T04:25:36.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona.cs",
+              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\Persona.cs",
+              "RelativeToolTip": "Persona.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T03:27:50.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormInscripcionPostulante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\FormInscripcionPostulante.cs",
+              "RelativeDocumentMoniker": "FormInscripcionPostulante.cs",
+              "ToolTip": "C:\\Users\\Jose\\Downloads\\ClubDeportivo-sa20h\\ClubDeportivo\\FormInscripcionPostulante.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Users\\Jose\\Downloads\\ClubDeportivo-sa20h\\ClubDeportivo\\FormInscripcionPostulante.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T03:00:39.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormInscripcionPostulante.cs",
+              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\FormInscripcionPostulante.cs",
+              "RelativeDocumentMoniker": "FormInscripcionPostulante.cs",
+              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\FormInscripcionPostulante.cs",
+              "RelativeToolTip": "FormInscripcionPostulante.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T02:55:31.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GestorCSV.cs",
+              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\GestorCSV.cs",
+              "RelativeDocumentMoniker": "GestorCSV.cs",
+              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\GestorCSV.cs",
+              "RelativeToolTip": "GestorCSV.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:45:16.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\Configuracion.cs",
+              "RelativeDocumentMoniker": "Configuracion.cs",
+              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\Configuracion.cs",
+              "RelativeToolTip": "Configuracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:38:45.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Configuracion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\Configuracion.cs",
               "RelativeDocumentMoniker": "Configuracion.cs",
-              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\Configuracion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Configuracion.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Jose\\Downloads\\ClubDeportivo-sa20h\\ClubDeportivo\\Configuracion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Users\\Jose\\Downloads\\ClubDeportivo-sa20h\\ClubDeportivo\\Configuracion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T02:39:15.707Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-18T23:29:25.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\Conexion.cs",
+              "RelativeDocumentMoniker": "Conexion.cs",
+              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\Conexion.cs",
+              "RelativeToolTip": "Conexion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:23:03.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\ClubFabio\\ClubDeportivo\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "C:\\ClubFabio\\ClubDeportivo\\FormPrincipal.cs",
+              "RelativeToolTip": "FormPrincipal.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:10:43.171Z"
             }
           ]
         }

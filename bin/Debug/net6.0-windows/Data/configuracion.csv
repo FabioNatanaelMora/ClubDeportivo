@@ -1,2 +1,2 @@
-Server,Database,Username,Password
-tttu,jose,eduardo,11
+Server,Port,Database,Username,Password
+localhost,3306,clubdeportivo,root,root

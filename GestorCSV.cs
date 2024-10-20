@@ -27,25 +27,25 @@ namespace ClubDeportivo
         }
 
         // Method to save connection parameters to CSV
-        public void SaveConnectionParams(string server, string database, string username, string password)
+        public void SaveConnectionParams(string server, string port, string database, string username, string password)
         {
             using (StreamWriter writer = new StreamWriter(_filePath))
             {
-                writer.WriteLine("Server,Database,Username,Password"); // Write header
-                writer.WriteLine($"{server},{database},{username},{password}"); // Write parameters
+                writer.WriteLine("Server,Port,Database,Username,Password"); // Write header
+                writer.WriteLine($"{server},{port},{database},{username},{password}"); // Write parameters
                 MessageBox.Show("Parametros Actualizados con Exito");
             }
         }
 
         // Method to read connection parameters from CSV
-        public (string server, string database, string username, string password) LoadConnectionParams()
+        public  (string server, string port, string database, string username, string password) LoadConnectionParams()
         {
             if (!File.Exists(_filePath))
             {
                 using (StreamWriter writer = new StreamWriter(_filePath))
                 {
-                    writer.WriteLine("Server,Database,Username,Password"); // Write header
-                    writer.WriteLine($"{"server"},{"database"},{"username"},{"password"}"); // Write parameters 
+                    writer.WriteLine("Server,Port,Database,Username,Password"); // Write header
+                    writer.WriteLine($"{"server"},{"port"},{"database"},{"username"},{"password"}"); // Write parameters 
                 }
                 
             }
@@ -56,7 +56,7 @@ namespace ClubDeportivo
                 string[] values = reader.ReadLine().Split(',');
 
                 // Return the parameters as a tuple
-                return (values[0], values[1], values[2], values[3]);
+                return (values[0], values[1], values[2], values[3], values[4]);
             }
         }
     }

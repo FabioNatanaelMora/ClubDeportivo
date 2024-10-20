@@ -20,14 +20,14 @@ namespace ClubDeportivo
 
         private void btnNvoSocio_Click(object sender, EventArgs e)
         {
-            FormNvoSocio formNvoSocio = new FormNvoSocio();
-            formNvoSocio.ShowDialog();
+          
         }
 
         private void botonConf_Click(object sender, EventArgs e)
         {
             Configuracion configuracion = new Configuracion();
-            configuracion.ShowDialog();
+            configuracion.Show();
+            this.Hide();
         }
     }
 }

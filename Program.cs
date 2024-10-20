@@ -17,7 +17,7 @@ namespace ClubDeportivo
           
 
         ApplicationConfiguration.Initialize();
-            Listas listas = new Listas();
+          
           FormPrincipal formPrincipal = new FormPrincipal();
             formPrincipal.Show();
             Application.Run();

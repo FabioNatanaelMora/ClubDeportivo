@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClubDeportivo
-build_property.ProjectDir = C:\Users\Mora\Desktop\ClubDeportivo\
+build_property.ProjectDir = C:\Users\Mora\source\repos\FabioNatanaelMora\ClubDeportivo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -16,16 +16,34 @@ namespace ClubDeportivo
         public FormPrincipal()
         {
             InitializeComponent();
+            Conexion conexion = new Conexion();
         }
 
         private void btnGestion_Click(object sender, EventArgs e)
         {
+
             FormGestion formGestion = new FormGestion();
-            formGestion.ShowDialog();
-           
+            formGestion.Show();
+            this.Hide();
+
 
         }
-       
- 
+
+        private void btnInscripcion_Click(object sender, EventArgs e)
+        {
+            FormInscripcionPostulante formInscripcion = new FormInscripcionPostulante();
+            formInscripcion.Show();
+            this.Hide();
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void FormPrincipal_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

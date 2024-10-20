@@ -4,13 +4,10 @@
     <Compile Update="Configuracion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormCargaSocio.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="FormGestion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormNvoSocio.cs">
+    <Compile Update="FormInscripcionPostulante.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="FormPrincipal.cs">

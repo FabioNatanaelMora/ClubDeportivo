@@ -38,6 +38,9 @@
             TxtUsername = new TextBox();
             TxtPassword = new TextBox();
             botonActConf = new Button();
+            btnProbar = new Button();
+            labelPuerto = new Label();
+            TxtPuerto = new TextBox();
             SuspendLayout();
             // 
             // label1
@@ -54,7 +57,7 @@
             // labelSever
             // 
             labelSever.AutoSize = true;
-            labelSever.Location = new Point(94, 191);
+            labelSever.Location = new Point(97, 158);
             labelSever.Name = "labelSever";
             labelSever.Size = new Size(83, 31);
             labelSever.TabIndex = 1;
@@ -63,7 +66,7 @@
             // labelDatabase
             // 
             labelDatabase.AutoSize = true;
-            labelDatabase.Location = new Point(93, 259);
+            labelDatabase.Location = new Point(94, 279);
             labelDatabase.Name = "labelDatabase";
             labelDatabase.Size = new Size(113, 31);
             labelDatabase.TabIndex = 2;
@@ -72,7 +75,7 @@
             // labelUsername
             // 
             labelUsername.AutoSize = true;
-            labelUsername.Location = new Point(94, 318);
+            labelUsername.Location = new Point(94, 337);
             labelUsername.Name = "labelUsername";
             labelUsername.Size = new Size(122, 31);
             labelUsername.TabIndex = 3;
@@ -81,7 +84,7 @@
             // labelPassword
             // 
             labelPassword.AutoSize = true;
-            labelPassword.Location = new Point(94, 385);
+            labelPassword.Location = new Point(94, 396);
             labelPassword.Name = "labelPassword";
             labelPassword.Size = new Size(117, 31);
             labelPassword.TabIndex = 4;
@@ -89,7 +92,7 @@
             // 
             // TxtServer
             // 
-            TxtServer.Location = new Point(254, 184);
+            TxtServer.Location = new Point(254, 158);
             TxtServer.Name = "TxtServer";
             TxtServer.Size = new Size(270, 38);
             TxtServer.TabIndex = 5;
@@ -97,21 +100,21 @@
             // 
             // TxtDatabase
             // 
-            TxtDatabase.Location = new Point(254, 252);
+            TxtDatabase.Location = new Point(254, 279);
             TxtDatabase.Name = "TxtDatabase";
             TxtDatabase.Size = new Size(270, 38);
             TxtDatabase.TabIndex = 6;
             // 
             // TxtUsername
             // 
-            TxtUsername.Location = new Point(254, 311);
+            TxtUsername.Location = new Point(254, 337);
             TxtUsername.Name = "TxtUsername";
             TxtUsername.Size = new Size(270, 38);
             TxtUsername.TabIndex = 7;
             // 
             // TxtPassword
             // 
-            TxtPassword.Location = new Point(254, 378);
+            TxtPassword.Location = new Point(254, 396);
             TxtPassword.Name = "TxtPassword";
             TxtPassword.Size = new Size(270, 38);
             TxtPassword.TabIndex = 8;
@@ -119,7 +122,7 @@
             // botonActConf
             // 
             botonActConf.BackColor = Color.OldLace;
-            botonActConf.Location = new Point(312, 440);
+            botonActConf.Location = new Point(313, 463);
             botonActConf.Name = "botonActConf";
             botonActConf.Size = new Size(149, 55);
             botonActConf.TabIndex = 9;
@@ -127,12 +130,43 @@
             botonActConf.UseVisualStyleBackColor = false;
             botonActConf.Click += botonActConf_Click;
             // 
+            // btnProbar
+            // 
+            btnProbar.Location = new Point(629, 463);
+            btnProbar.Name = "btnProbar";
+            btnProbar.Size = new Size(113, 55);
+            btnProbar.TabIndex = 10;
+            btnProbar.Text = "Probar";
+            btnProbar.UseVisualStyleBackColor = true;
+            btnProbar.Click += button1_Click;
+            // 
+            // labelPuerto
+            // 
+            labelPuerto.AutoSize = true;
+            labelPuerto.Location = new Point(94, 219);
+            labelPuerto.Name = "labelPuerto";
+            labelPuerto.Size = new Size(86, 31);
+            labelPuerto.TabIndex = 11;
+            labelPuerto.Text = "Puerto";
+            labelPuerto.Click += label2_Click;
+            // 
+            // TxtPuerto
+            // 
+            TxtPuerto.Location = new Point(254, 219);
+            TxtPuerto.Name = "TxtPuerto";
+            TxtPuerto.Size = new Size(270, 38);
+            TxtPuerto.TabIndex = 12;
+            TxtPuerto.TextChanged += textBox1_TextChanged_1;
+            // 
             // Configuracion
             // 
             AutoScaleDimensions = new SizeF(15F, 31F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.LightBlue;
-            ClientSize = new Size(844, 557);
+            ClientSize = new Size(844, 588);
+            Controls.Add(TxtPuerto);
+            Controls.Add(labelPuerto);
+            Controls.Add(btnProbar);
             Controls.Add(botonActConf);
             Controls.Add(TxtPassword);
             Controls.Add(TxtUsername);
@@ -165,5 +199,8 @@
         private TextBox TxtUsername;
         private TextBox TxtPassword;
         private Button botonActConf;
+        private Button btnProbar;
+        private Label labelPuerto;
+        private TextBox TxtPuerto;
     }
 }
